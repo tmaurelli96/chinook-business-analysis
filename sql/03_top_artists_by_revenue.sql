@@ -1,3 +1,8 @@
+🇬🇧 Business Question
+Which artists generate the highest revenue?
+🇮🇹 Domanda di Business
+Quali artisti generano il maggior fatturato?
+
 SELECT
     a2.Name AS Artist,
     SUM(ii.UnitPrice * ii.Quantity) AS Revenue
