@@ -1,3 +1,8 @@
+🇬🇧 Business Question
+Who are the highest-spending customers?
+🇮🇹 Domanda di Business
+Quali sono i clienti con la maggiore spesa?
+
 SELECT
     c.FirstName,
     c.LastName,
