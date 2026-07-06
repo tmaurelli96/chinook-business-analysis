@@ -1,3 +1,8 @@
+🇬🇧 Business Question
+Which countries generate the highest revenue?
+🇮🇹 Domanda di Business
+Quali paesi generano il maggior fatturato?
+
 SELECT
     c.Country,
     SUM(i.Total) AS Revenue
