@@ -1,3 +1,8 @@
+🇬🇧 Business Question
+Which albums sell the highest number of units?
+🇮🇹 Domanda di Business
+Quali album registrano il maggior numero di unità vendute?
+
 SELECT
     a.Title,
     SUM(ii.Quantity) AS Units_Sold
