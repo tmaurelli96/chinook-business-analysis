@@ -1,3 +1,8 @@
+🇬🇧 Business Question
+Which customers have a total spending greater than the average invoice value?
+🇮🇹 Domanda di Business
+Quali clienti hanno una spesa totale superiore al valore medio di una fattura?
+
 SELECT
     c.FirstName,
     c.LastName,
